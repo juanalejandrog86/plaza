@@ -26,4 +26,13 @@ Matriz DOFA
 ______________________________________________________________________
 Mercados especificos
 
-Compraventa web
+Compraventa_web
+
+Domicilios.
+
+Mercado, productos perecederos
+
+_____________________________________________________________________
+Descripción del problema.
+
+Se requiere un sistemas que permita el registro de proveedores, de forma en que puedan ingresar por una pagina web o servicio web y registrarse como proveedor. Dicho registro debe ser validado por un asesor de plaza, quien debera dar el visto bueno para que dicho proveedor entre a ser parte de la lista de proveedores de plaza. El proveedor una vez autorizado podra publicar sus productos o pagar a plaza para que un asesor registre sus productos. La disponibilidad de un producto en particular no será visible al cliente de mercado, sin embargo al momento de registrar inventario se debe ingresar una vigencia del producto y una cantidad que se deberá respetar para venta. Una vez el sistema identifique que se ha ventido la totalidad del producto, será visible para el cliente, pero indicará que no está disponible para venta. Se debe facturar mensualmente a proveedores por los siguientes conceptos, publicidad de producto, comision de venta, costo por ser proveedor en plaza. Los beneficios van orientados a los clientes de mercado en plaza, plaza entrega a los clientes de mercado una forma facil de registro, los usuarios tanto anonimos como registrados podran navegar y registrar productos que deseen. Se deben tener tiempos de entrega garantizados y facilidad de devolver productos si no cumplen con lo esperado o especificado por el cliente. Se trabajara con productos no perecederos. El cliente puede realizar pagos por medio de payU o tarjeta de credito. Se debe permitir medios de comunicación entre el proveedor y usuario para aclaración de dudas.
